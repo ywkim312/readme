@@ -17,7 +17,7 @@ ssh fd-rstudio.ncsa.illinois.edu
 To connect the app created from the Rstudio site, the things must be located inside the ShinyApps folder. 
 So the folder path will be like this
 ```angular2svg
-/home/<username>/ShinyApps
+/home/userid/ShinyApps
 ```
 This folder can be created by linux command, or can be created using rstudio site.
 ```angular2svg
@@ -60,8 +60,8 @@ If you haven't made ShinyApps folder already, you can create it from File->New F
 
 ### Shiny
 You can access shiny site using https://shiny.ag-r.ncsa.illinois.edu
-Your own site will be the combination of 'users' and '<userid>'. 
-- https://shiny.ag-r.ncsa.illinois.edu/users/<userid>/
+Your own site will be the combination of 'users' and 'userid'. 
+- https://shiny.ag-r.ncsa.illinois.edu/users/userid/
 
 ### Installation of the package
 - You can install the necessary package using rstudio's install option.
