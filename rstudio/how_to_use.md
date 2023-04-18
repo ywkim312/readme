@@ -13,6 +13,9 @@ The home directory will be automatically connected to rstudio
 ```
 ssh fd-rstudio.ncsa.illinois.edu
 ```
+- linux or Mac users can directly type above command. 
+- Windows users need some ssh tool like putty
+
 ### Create shiny app folder
 To connect the app created from the Rstudio site, the things must be located inside the ShinyApps folder. 
 So the folder path will be like this
